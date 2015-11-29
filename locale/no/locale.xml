@@ -1,0 +1,13 @@
+<!-- localized translations for norwegian -->
+<locale lang="no" desc="Norwegian">
+    <group type="menu">
+        <key id="menu.explore">søk og finn</key>
+        <key id="menu.dict">ordliste</key>
+        <key id="menu.quiz">oppgaver</key>
+        <key id="menu.shortstory"><span>kort</span> <span>tekst</span></key>
+        <key id="menu.longstory"><span>lang</span> <span>tekst</span></key>
+    </group>
+    <group type="content"></group>
+    <group type="timed"></group>
+    <group type="quiz"></group>
+</locale>

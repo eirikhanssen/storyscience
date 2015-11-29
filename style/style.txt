@@ -1,0 +1,3 @@
+this folder contains the themes
+initially just the default theme is installed, but you can add your own theme
+by forking and changing it (make a copy of default to a new chosen name and edit contents inside)
