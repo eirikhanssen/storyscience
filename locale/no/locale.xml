@@ -1,13 +1,63 @@
 <!-- localized translations for norwegian -->
 <locale lang="no" desc="Norwegian">
-    <group type="menu">
-        <key id="menu.explore">søk og finn</key>
-        <key id="menu.dict">ordliste</key>
-        <key id="menu.quiz">oppgaver</key>
-        <key id="menu.shortstory"><span>kort</span> <span>tekst</span></key>
-        <key id="menu.longstory"><span>lang</span> <span>tekst</span></key>
-    </group>
-    <group type="content"></group>
-    <group type="timed"></group>
-    <group type="quiz"></group>
+	<group type="menu">
+		<key id="menu.chap.explore">søk og finn</key>
+		<key id="menu.chap.dict">ordliste</key>
+		<key id="menu.chap.quiz">oppgaver</key>
+		<key id="menu.chap.shortstory"><span>kort</span> <span>tekst</span></key>
+		<key id="menu.chap.longstory"><span>lang</span> <span>tekst</span></key>
+		<key id="menu.lang.title.langselect"><h2>Språkvalg</h2></key>
+	</group>
+	<group type="content"></group>
+	<group type="timed">
+		<key id="timed.06.short.p001"><p>Meitemark lager god jord</p></key>
+		<key id="timed.06.short.p002"><p>Jenny, Samir, Hen og Katt er nede i jorda.</p></key>
+		<key id="timed.06.short.p003"><p>De er små.</p></key>
+		<key id="timed.06.short.p004"><p>De går i gangene til meitemarken.</p></key>
+		<key id="timed.06.short.p005"><p>De hører noen som spiser.</p></key>
+		<key id="timed.06.short.p006"><p>Noe brunt rører på seg.</p></key>
+		<key id="timed.06.short.p007"><p>– Er det meitemarken? hvisker Jenny</p></key>
+		<key id="timed.06.short.p008"><p>– Hei, hva gjør den! sier Samir.</p></key>
+		<key id="timed.06.short.p009"><p>– Den bæsja i hodet på meg!</p></key>
+		<key id="timed.06.short.p010"><p>– Flott! sier Hen. – Nå blir det fin jord!</p></key>
+		<key id="timed.06.short.p011"><p>– Jeg vil ikke bli jord! sier Samir.</p></key>
+		<key id="timed.06.short.p012"><p>Han børster krøllene sine.</p></key>
+		<key id="timed.06.short.p013"><p>De går stille videre.</p></key>
+		<key id="timed.06.short.p014"><p>De hører en lyd.</p></key>
+		<key id="timed.06.short.p015"><p>– Slafs! Slafs!</p></key>
+		<key id="timed.06.short.p016"><p>Jenny stopper og sier STOPP!</p></key>
+		<key id="timed.06.short.p017"><p>NOEN SPISER!</p></key>
+		<key id="timed.06.short.p018"><p>De ser et dyr. Oransje farge.</p></key>
+		<key id="timed.06.short.p019"><p>Langt. Mange bein.</p></key>
+		<key id="timed.06.short.p020"><p>To store klør!</p></key>
+		<key id="timed.06.short.p021"><p>Klørne holder fast en meitemark.</p></key>
+		<key id="timed.06.short.p022"><p>Dyret spiser marken.</p></key>
+		<key id="timed.06.short.p023"><p>– Slafs! Slafs!</p></key>
+		<key id="timed.06.short.p024"><p>– Skolopender! sier Hen.</p></key>
+		<key id="timed.06.short.p025"><p>– Skolopender elsker meitemark!</p></key>
+		<key id="timed.06.short.p026"><p>Jenny tenker: – Vi er små!</p></key>
+		<key id="timed.06.short.p027"><p>De løper.</p></key>
+		<key id="timed.06.short.p028"><p>Skolopenderen kommer etter dem.</p></key>
+		<key id="timed.06.short.p029"><p>Jenny løper og roper:</p></key>
+		<key id="timed.06.short.p030"><p>– Jeg er ikke maten din!</p></key>
+		<key id="timed.06.short.p031"><p>– Jeg er ikke maten din!</p></key>
+		<key id="timed.06.short.p032"><p>Samir løper og roper:</p></key>
+		<key id="timed.06.short.p033"><p>– Jeg er ikke meitemark!</p></key>
+		<key id="timed.06.short.p034"><p>– Jeg er ikke meitemark!</p></key>
+		<key id="timed.06.short.p035"><p>Katt og Hen løper.</p></key>
+		<key id="timed.06.short.p036"><p>Skolopenderen etter.</p></key>
+		<key id="timed.06.short.p037"><p>Med klørne rett bak dem.</p></key>
+		<key id="timed.06.short.p038"><p>Jenny ser lyset. Det er åpningen.</p></key>
+		<key id="timed.06.short.p039"><p>De smetter ut. Alle fem.</p></key>
+		<key id="timed.06.short.p040"><p>Oppe i gresset roper Hen:</p></key>
+		<key id="timed.06.short.p041"><p>– Bli store!</p></key>
+		<key id="timed.06.short.p042"><p>Jenny ble stor.</p></key>
+		<key id="timed.06.short.p043"><p>Samir ble stor.</p></key>
+		<key id="timed.06.short.p044"><p>Hen og Katt ble store.</p></key>
+		<key id="timed.06.short.p045"><p>Jenny ser på skolopenderen.</p></key>
+		<key id="timed.06.short.p046"><p>Den er liten.</p></key>
+		<key id="timed.06.short.p047"><p>Liten som en lillefinger.</p></key>
+		<key id="timed.06.short.p048"><p>Jenny ler: – Hvorfor var jeg redd?</p></key>
+	</group>
+	<group type="quiz"></group>
 </locale>

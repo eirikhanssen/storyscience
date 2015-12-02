@@ -1,1 +1,99 @@
-<!-- audio timings for norwegian -->
+<?xml version="1.0"?>
+<timecontainers>
+	<timecontainer lang="no">
+		<source type="audio" src="locale/no/audio/no-c06-short-64k.ogg"/>
+		<source type="audio" src="locale/no/audio/no-c06-short-96k.mp3"/>
+
+		<slide>
+			<item select="timed.06.short.p001" begin="0.428537" end="5.168421"/>
+			<item select="timed.06.short.p002" begin="6.077440" end="11.713356"/>
+			<item select="timed.06.short.p003" begin="11.791272" end="14.076805"/>
+			<item select="timed.06.short.p004" begin="14.284581" end="18.764745"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p005" begin="19.011478" end="22.219016"/>
+			<item select="timed.06.short.p006" begin="22.374848" end="25.023988"/>
+			<item select="timed.06.short.p007" begin="25.023988" end="29.140545"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p008" begin="29.140545" end="32.763634"/>
+			<item select="timed.06.short.p009" begin="32.763634" end="35.230970"/>
+			<item select="timed.06.short.p010" begin="35.321872" end="39.905924"/>
+			<item select="timed.06.short.p011" begin="39.983840" end="44.632822"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p012" begin="44.775667" end="47.593626"/>
+			<item select="timed.06.short.p013" begin="47.723485" end="50.606374"/>
+			<item select="timed.06.short.p014" begin="50.736233" end="52.736075"/>
+			<item select="timed.06.short.p015" begin="52.839963" end="57.411028"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p016" begin="57.411028" end="61.410711"/>
+			<item select="timed.06.short.p017" begin="61.605501" end="63.994921"/>
+			<item select="timed.06.short.p018" begin="64.072837" end="67.708912"/>
+			<item select="timed.06.short.p019" begin="67.773842" end="70.461941"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p020" begin="70.656730" end="73.098095"/>
+			<item select="timed.06.short.p021" begin="73.266913" end="76.669240"/>
+			<item select="timed.06.short.p022" begin="76.799100" end="79.019703"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p023" begin="79.019703" end="83.071330"/>
+			<item select="timed.06.short.p024" begin="83.214175" end="86.200951"/>
+			<item select="timed.06.short.p025" begin="86.369769" end="89.655223"/>
+			<item select="timed.06.short.p026" begin="89.655223" end="94.511980"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p027" begin="94.641840" end="96.343004"/>
+			<item select="timed.06.short.p028" begin="96.433906" end="99.109018"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p029" begin="99.212906" end="101.303649"/>
+			<item select="timed.06.short.p030" begin="101.407537" end="103.848902"/>
+			<item select="timed.06.short.p031" begin="103.965775" end="106.095477"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p032" begin="106.173392" end="108.718645"/>
+			<item select="timed.06.short.p033" begin="108.822533" end="110.510711"/>
+			<item select="timed.06.short.p034" begin="110.562655" end="112.367706"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p035" begin="110.562655" end="112.367706"/>
+			<item select="timed.06.short.p036" begin="112.536524" end="114.886987"/>
+			<item select="timed.06.short.p037" begin="114.938931" end="117.081618"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p038" begin="117.081618" end="120.886511"/>
+			<item select="timed.06.short.p039" begin="120.886511" end="125.912086"/>
+			<item select="timed.06.short.p040" begin="126.171805" end="129.716979"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p041" begin="129.911768" end="132.703755"/>
+			<item select="timed.06.short.p042" begin="132.872572" end="135.015259"/>
+			<item select="timed.06.short.p043" begin="135.132133" end="137.144961"/>
+			<item select="timed.06.short.p044" begin="137.209890" end="139.040914"/>
+		</slide>
+
+		<slide>
+			<item select="timed.06.short.p045" begin="139.040914" end="141.845886"/>
+			<item select="timed.06.short.p046" begin="141.910816" end="145.559877"/>
+			<item select="timed.06.short.p047" begin="148.377835" end="152.156756"/>
+			<item select="timed.06.short.p048" begin="152.221686" end="157.662813"/>
+		</slide>
+	</timecontainer>
+
+
+</timecontainers>
