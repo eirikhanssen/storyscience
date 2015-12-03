@@ -4,7 +4,7 @@ class BeginPage {
 	private $doctype = "<!doctype html>\n";
 	private $lang = "no";
 	private $title = "Default title";
-	private $level = 0;
+	private $depth = 0;
 	private $cssbasepath = "style/style.css";
 	private $csspath = "";
 	private $script;
