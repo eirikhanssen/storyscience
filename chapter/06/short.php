@@ -1,7 +1,7 @@
 <?php 
-include '../../include/xslt2.inc.php';
-include '../../include/page.surround.inc.php';
-include '../../include/common.inc.php';
+require_once '../../include/xslt2.inc.php';
+require_once '../../include/page.surround.inc.php';
+require_once '../../include/common.inc.php';
 $depth = 2; // two levels from root
 $xml ="../../locale/no/locale.xml";
 $xsl ="../../xsl/keys.xsl";
